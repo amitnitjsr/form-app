@@ -1,0 +1,12 @@
+.text-input{
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.submit-btn{
+    width: 85px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+.margin{
+    margin-top: 50px;
+}
